@@ -1,7 +1,7 @@
 # Aws SQS Using Python
 This repository contains Python Code for CRUD operations while working with AWS Simple Queue system
 
-SQSDemo.py - Creating a Queue
+sqsDemo.py - Creating a Queue
 
 sqsSendReceive.py - Send and read messages to and from an SQS Queue
 
